@@ -1,4 +1,4 @@
-# bettercamp - 
+# bettercamp Windows 11 Edition (PCIEDIT was updated to work in Windows11 (tested with 21H2) LOOK OTHER REPO in README FOR Instructions!!
 A super simple script to automate hardware drivers setup for Microsoft Windows on older Apple Macintosh computers
 
 Note: Seems like the copy of IntcHDAud.inf Intel audio driver uploaded here is corrupt, use a different copy (extract any OEM, like Dell's, Intel HD Graphics driver and use the audio inf file from its extracted folder)
